@@ -1,7 +1,6 @@
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Adobe_Flash_Player_32.svg/82px-Adobe_Flash_Player_32.svg.png"></a>
 </p>
-# my-flash-collection
 RU: Тут вы найдете некоторый флэш игры, которые мне зашли. (буду иногда пополнять)
 Для запуска флешек:
 Ruffle: https://ruffle.rs/
