@@ -3,9 +3,9 @@
 </p>
 <p> RU: Тут вы найдете некоторый флэш игры, которые мне зашли. (буду иногда пополнять)<p>
 <p>Для запуска флешек:<p>
-<p>Ruffle: https://ruffle.rs/<p>
-<p> или Flash Player: https://github.com/HSDChannel/my-flash-collection/raw/main/Flash%20Player%20(Windows).zip<p>
+<p><a href="https://ruffle.rs/">Ruffle<p><a>
+<p> <a href="https://github.com/HSDChannel/my-flash-collection/raw/main/Flash%20Player%20(Windows).zip">Flash Player<p><a>
 <p>EN: Here you will find some flash games that came to me. (I will replenish sometimes)<p>
 <p>To run a flash:<p>
-<p>Ruffle: https://ruffle.rs/<p>
-<p>Flash Player: https://github.com/HSDChannel/my-flash-collection/raw/main/Flash%20Player%20(Windows).zip<p>
+<p><a href="https://ruffle.rs/">Ruffle<p><a>
+<p> <a href="https://github.com/HSDChannel/my-flash-collection/raw/main/Flash%20Player%20(Windows).zip">Flash Player<p><a>
